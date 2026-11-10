@@ -19,3 +19,13 @@ Günümüzdeki büyük dil modelleri Türkçe akademik metin üretirken sıklık
 1. `SYSTEM_INSTRUCTION.md` dosyasında yer alan master prompt metnini kopyalayın.
 2. Kullandığınız yapay zeka modelinin (Gemini, ChatGPT, Claude vb.) *System Prompt* veya *Custom Instructions* alanına yapıştırın.
 3. Düzenlenmesini istediğiniz Türkçe akademik taslak metni modele iletin.
+
+## 📚 Kaynaklar ve Esinlenmeler
+
+Bu projenin dilbilimsel optimizasyon kuralları, perplexity/burstiness dengesi ve Türkçe NLP kalıpları analiz edilirken aşağıdaki açık kaynaklı çalışmalardan ve mimari kılavuzlardan ilham alınmıştır:
+
+* [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill)
+* [bushrabeg/turkce-humanizer](https://github.com/bushrabeg/turkce-humanizer)
+* [maryam-salawudeen/humanize](https://github.com/maryam-salawudeen/humanize)
+* [blader/humanizer](https://github.com/blader/humanizer)
+* [ahmadhassan-bted/turnitout-humanizer](https://github.com/ahmadhassan-bted/turnitout-humanizer)
